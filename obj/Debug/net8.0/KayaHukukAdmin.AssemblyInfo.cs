@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KayaHukukAdmin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb202e25f3622032189ffc56f411fbc9738e3944")]
 [assembly: System.Reflection.AssemblyProductAttribute("KayaHukukAdmin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KayaHukukAdmin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

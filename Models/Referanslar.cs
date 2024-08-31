@@ -10,4 +10,5 @@ public partial class Referanslar
     public string? FirmaAdi { get; set; }
 
     public string? FirmaLogo { get; set; }
+
 }
